@@ -4,7 +4,7 @@ Este es un proyecto hecho en Unity que integra un sistema de notificaciones por 
 
 ---
 
-## 📁 Estructura de Scripts
+## Estructura de Scripts
 
 ```
 Assets/Scripts/
@@ -21,7 +21,7 @@ Assets/Scripts/
 
 ---
 
-## 🔔 Eventos que disparan notificaciones
+## Eventos que disparan notificaciones
 
 El sistema tiene **dos eventos** que generan un correo:
 
