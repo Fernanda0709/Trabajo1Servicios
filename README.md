@@ -32,7 +32,7 @@ En ambos casos el correo incluye el puntaje actual y la fecha, construidos diná
 
 ---
 
-## 📨 Flujo básico de envío SMTP
+## Flujo básico de envío SMTP
 
 ```
 [Jugador ingresa su correo en el panel UI]
@@ -62,7 +62,7 @@ En ambos casos el correo incluye el puntaje actual y la fecha, construidos diná
 
 ---
 
-## ⚙️ Manejo de respuestas del servidor
+## Manejo de respuestas del servidor
 
 `EmailSender.cs` maneja dos casos:
 
